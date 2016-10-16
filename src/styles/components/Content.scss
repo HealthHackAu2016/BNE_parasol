@@ -1,0 +1,24 @@
+.Content {
+	background: $color_white;
+}
+
+.Content_Header {
+	background: $color_gray_mid;
+	border-bottom: 1px solid $color_gray_dark;
+	padding: 1rem 2rem;
+	display: flex;
+}
+
+.Content_Title {
+	flex: 1;
+	font-size: 1.75rem;
+	font-weight: 200;
+}
+
+.Content_Options {
+	display: flex;
+}
+
+.Content_Main {
+	padding: 1rem 2rem;
+}

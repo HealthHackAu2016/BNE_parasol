@@ -1,0 +1,27 @@
+.Mapping {
+}
+
+.Mapping_Title {
+	display: flex;
+
+	> h3 {
+		flex: 1;
+	}
+}
+
+.Mapping_Field {
+	display: block;
+	font-size: 14px;
+
+	> label {
+		display: inline-block;
+		text-transform: uppercase;
+		min-width: 15rem;
+		color: $color_primary;
+		font-weight: 200;
+	}
+
+	> div {
+		display: inline-block;
+	}
+}

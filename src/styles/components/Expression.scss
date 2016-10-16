@@ -1,0 +1,21 @@
+.Expression {
+	display: flex;
+	align-items: flex-start;
+	margin-bottom: 0.5rem;
+
+	> span {
+		display: flex;
+		align-items: flex-start;
+	}
+	.btn {
+		margin-left: 0.5rem;
+	}
+
+	> *, > span > * {
+		margin-right: 0.5rem;
+	}
+
+	> .Alert {
+		padding: 0rem;
+	}
+}

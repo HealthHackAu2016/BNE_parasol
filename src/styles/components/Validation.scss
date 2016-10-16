@@ -1,0 +1,22 @@
+.InvalidValue {
+
+}
+
+ul.ValueList {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+
+	> li {
+		display: inline-block;
+		background: $color_gray_mid;
+		padding: 0.5rem 1rem;
+		margin: 0.25rem;
+		min-height: 2rem;
+
+		&.-selectable:hover {
+			cursor: pointer;
+			opacity: 0.7;
+		}
+	}
+}
