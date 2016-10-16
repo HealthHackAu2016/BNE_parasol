@@ -5,9 +5,13 @@ Parasort allows for the easy transformation of arbitrary Excel documents to vali
 ## Team Parasort
 
 Divya Ramnath
+
 David Ringsell
+
 Nathan Oehlman
+
 Madhuri Reddy
+
 Lincoln Coutts
 
 ## The Problem
@@ -23,3 +27,5 @@ Prior to Parasort, the approach for identifying these samples is a lengthy manua
 Parasort massively simplifies this process by allowing this Excel database to be validated (to standardise and structure the data according to user defined rules), and imported into a queryable database.
 
 Using these rules, queryies can be easily constructed as required to deliver high quality results from the database in a fraction of the time.
+
+Available @ www.parasort.org
